@@ -1,6 +1,6 @@
 # 📊 تحلیل و مصورسازی شاخص‌های کلان جمعیت، نیروی کار و آموزش ایران
 
-> 🚀 **[مشاهده آنلاین و زنده داشبورد تعاملی ۱۲ نموداره (Interactive Dashboard)](https://armankarmi94.github.io/Iran-Macro-Indicators-Analysis/)**
+> 🚀 **[مشاهده آنلاین و زنده داشبورد تعاملی ۱۲ نموداره (Interactive Dashboard)](https://github.com/armankarmi94/Iran-Macro-Indicators-Analysis/blob/main/iran_comprehensive_dashboard.html)**
 
 این پروژه یک پایپ‌لاین استخراج، پاک‌سازی و تحلیل داده (Data Wrangling & Exploratory Data Analysis) با استفاده از زبان **پایتون** است که بر روی داده‌های رسمی منتشرشده توسط **مرکز آمار ایران** (فصلنامه شاخص‌های کلان - شیت جمعیت و نیروی انسانی) پیاده‌سازی شده است.
 
